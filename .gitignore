@@ -1,0 +1,5 @@
+.config/
+huggingface_tokenizers_cache/
+lora_model/
+outputs/
+sample_data/
